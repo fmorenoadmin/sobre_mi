@@ -4,7 +4,7 @@
 [![Sígueme en Facebook](https://img.shields.io/badge/Sígueme-Faccebook-blue)](https://facebook.com/FrankMartinMA)
 [![Escríbeme en Facebook](https://img.shields.io/badge/Escríbeme-Messenger-blue)](https://m.me/FrankMartinMA)
 [![Escríbeme en WhatsApp](https://img.shields.io/badge/Escríbeme-WhathApp-green)](https://wa.me/51924741703)
-[![Mi Web](https://img.shields.io/github/contributors/sendgrid/sendgrid-php.svg)](https://frankmorenoalburqueque.com)
+[![Mi Web](https://img.shields.io/badge/Mi-Página-blueviolet)](https://frankmorenoalburqueque.com)
 
 ### Perfíl profesional:
 
