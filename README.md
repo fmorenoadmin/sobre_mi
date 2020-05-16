@@ -26,10 +26,27 @@ Actualmente me encuentor laborando en: **EURORENTING - EUROMOTORS**
 
 > "Trabajar en una empresa reconocida, desempeñándome en lo que me gusta hacer. (Diseño web, Programación PHP; DB MYSQL, SQL o PostgreSQL; entre otros). Poder tener un cargo importante, con el cual me comprometa. Aprender cosas nuevas y jamás dejar de aprender."
 
+### Estos son algunos de mis más recientes Proyectos Elaborados y Participe:
+
+<ul>
+	<li>Sistema interno de control y seguimiento para: <a href="https://institutovonbraun.edu.pe/sistem/" target="_blank">Instituto wernher Von Braun</a> V 1.0.0</li>
+	<li>Remodelación y actualización de la página web principal del <a href="https://institutovonbraun.edu.pe/" target="_blank">Instituto wernher Von Braun</a></li>
+	<li>Elaboración de Carrito de compras para: <a href="https://www.legovonbraun.edu.pe/" target="_blank">Lego Von Braun</a></li>
+	<li>Elaboración de Página Web Bilingüe para: <a href="https://quechuadigital.com.pe/" target="_blank">Quechua Digital</a></li>
+	<li>Sistema interno de control y seguimiento para: <a href="https://www.sistema.ser.pe/" target="_blank">Ser Centro Psicológico</a></li>
+	<li>Actualización y mejoramiento del Sistema interno de control y seguimiento para: <a href="https://institutovonbraun.edu.pe/newsistem/" target="_blank">Instituto wernher Von Braun</a> V 2.0.2</li>
+	<li>Elaboración de Copia de Página Web para: <a href="https://clinicasantabeatriz.org/" target="_blank">Clínica Santa Beatriz ORG</a></li>
+	<li>Elaboración de Sistema Web de Citas Médicas para: <a href="https://sistema.clinicasantabeatriz.org/" target="_blank">Clínica Santa Beatriz ORG</a></li>
+	<li>Elaboración de Copia de Página Web para: <a href="https://www.cavanicorp.pe/" target="_blank">Corporación Cavani</a></li>
+	<li>Elaboración de Sistema Web de Inmobiliaria para: <a href="https://sistema.cavanicorp.pe/" target="_blank">Corporación Cavani</a></li>
+	<li>Elaboración de Sistema Web de Talleres para: <a href="https://talleres-eurorenting.com/" target="_blank">EuroRenting</a></li>
+</ul>
+
+
 ### Sobre Mí
 
 - MORENO ALBURQUEQUE FRANK MARTIN
-- fmorenoadmin
+- @fmorenoadmin para github
 - WebMaster - Programador Web PHP
 - Correo: admin@frankmorenoalburqueque.com
 - Web: https://frankmorenoalburqueque.com
