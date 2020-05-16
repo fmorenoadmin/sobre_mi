@@ -5,14 +5,9 @@
 
 ### Mi Perfil
 
-- MORENO ALBURQUEQUE FRANK MARTIN
-
-- fmorenoadmin
-
-- WebMaster - Programador Web PHP
-
-- Correo: admin@frankmorenoalburqueque.com
-
-- Web: https://frankmorenoalburqueque.com
-
-- Tel: +51924741703
+	- MORENO ALBURQUEQUE FRANK MARTIN
+	- fmorenoadmin
+	- WebMaster - Programador Web PHP
+	- Correo: admin@frankmorenoalburqueque.com
+	- Web: https://frankmorenoalburqueque.com
+	- Tel: +51924741703
