@@ -20,7 +20,9 @@ Dentro de todo el tiempo que llevo laborando con PHP, eh realizado un sistema co
 
 Eh realizado y participado en la elavoración de varios Proyectos. (Sistemas Web, Páginas Web, Carrito de Compras Web).
 
-Actualmente me encuentor laborando en: EURORENTING - EUROMOTORS
+Actualmente me encuentor laborando en: **EURORENTING - EUROMOTORS**
+
+> "Trabajar en una empresa reconocida, desempeñándome en lo que me gusta hacer. (Diseño web, Programación PHP; DB MYSQL, SQL o PostgreSQL; entre otros). Poder tener un cargo importante, con el cual me comprometa. Aprender cosas nuevas y jamás dejar de aprender."
 
 ### Sobre Mí
 
