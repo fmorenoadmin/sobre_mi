@@ -18,7 +18,8 @@
 	<li>Dentro de todo el tiempo que llevo laborando con PHP, eh realizado un sistema con mi propia metodología, el cual es adaptable a cualtier tipo de empresa y para cualquier fin.</li>
 	<li>Eh realizado y participado en la elavoración de varios Proyectos. (Sistemas Web, Páginas Web, Carrito de Compras Web).</li>
 	<li>Actualmente me encuentor laborando en: <b>EURORENTING - EUROMOTORS</b></li>
-	<li><cite>"Trabajar en una empresa reconocida, desempeñándome en lo que me gusta hacer. (Diseño web, Programación PHP; DB MYSQL, SQL o PostgreSQL; entre otros). Poder tener un cargo importante, con el cual me comprometa. Aprender cosas nuevas y jamás dejar de aprender."</cite></li>
+	<li><br>
+		<cite>"Trabajar en una empresa reconocida, desempeñándome en lo que me gusta hacer. (Diseño web, Programación PHP; DB MYSQL, SQL o PostgreSQL; entre otros). Poder tener un cargo importante, con el cual me comprometa. Aprender cosas nuevas y jamás dejar de aprender."</cite></li>
 	<li><b>Estos son algunos de mis más recientes Proyectos Elaborados y Participe:</b>
 		<ul>
 			<li>Sistema interno de control y seguimiento para: <a href="https://institutovonbraun.edu.pe/sistem/" target="_blank">Instituto wernher Von Braun</a> V 1.0.0</li>
