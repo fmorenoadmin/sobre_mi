@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://frankmorenoalburqueque.com/images/ico490x458.png" height="350" title="hover text">
-  <img src="https://frankmorenoalburqueque.com/images/logo480x240.png" width="350" alt="accessibility text">
+  <img src="https://frankmorenoalburqueque.com/images/ico490x458.png" height="320px" title="Icono">
 </p>
 
 [![Sígueme en Twitter](https://img.shields.io/twitter/follow/sendgrid.svg?style=social&label=Sígueme)](https://twitter.com/FrankMartinMor1)
@@ -35,3 +34,7 @@ Actualmente me encuentor laborando en: **EURORENTING - EUROMOTORS**
 - Correo: admin@frankmorenoalburqueque.com
 - Web: https://frankmorenoalburqueque.com
 - Tel: +51924741703
+
+<p align="center">
+  <img src="https://frankmorenoalburqueque.com/images/logo480x240.png" width="auto" title="Logo">
+</p>
