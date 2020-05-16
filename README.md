@@ -3,20 +3,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sendgrid.svg?style=social&label=Follow)](https://twitter.com/FrankMartinMor1)
 [![GitHub contributors](https://img.shields.io/github/contributors/sendgrid/sendgrid-php.svg)](https://frankmorenoalburqueque.com)
 
-**-**
-MORENO ALBURQUEQUE FRANK MARTIN
+- MORENO ALBURQUEQUE FRANK MARTIN
 
-**-**
-fmorenoadmin
+- fmorenoadmin
 
-**-**
-WebMaster - Programador Web PHP
+- WebMaster - Programador Web PHP
 
-**-**
-Correo: admin@frankmorenoalburqueque.com
+- Correo: admin@frankmorenoalburqueque.com
 
-**-**
-Web: https://frankmorenoalburqueque.com
+- Web: https://frankmorenoalburqueque.com
 
-**-**
-Tel: +51924741703
+- Tel: +51924741703
