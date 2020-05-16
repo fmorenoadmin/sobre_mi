@@ -27,7 +27,7 @@
 
 - Actualmente me encuentor laborando en: **EURORENTING - EUROMOTORS**
 
-###Estos son algunos de mis más recientes Proyectos Elaborados y Participe:
+### Estos son algunos de mis más recientes Proyectos Elaborados y Participe:
 
 <ul>
 	<li>Sistema interno de control y seguimiento para: <a href="https://institutovonbraun.edu.pe/sistem/" target="_blank">Instituto wernher Von Braun</a> V 1.0.0</li>
@@ -44,7 +44,7 @@
 </ul>	
 
 <p align="center">
-	<label>MORENO ALBURQUEQUE FRANK MARTIN</label><br>
+	<label>Moreno Alburqueque Frank Martin</label><br>
 	<label>WebMaster - Programador Web PHP</label><br>
 	<label><a href="mailto:admin@frankmorenoalburqueque.com">admin@frankmorenoalburqueque.com</a></label><br>
 	<label><a href="https://frankmorenoalburqueque.com" target="_blank">https://frankmorenoalburqueque.com</a></label><br>
