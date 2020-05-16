@@ -8,6 +8,6 @@
 - MORENO ALBURQUEQUE FRANK MARTIN
 - fmorenoadmin
 - WebMaster - Programador Web PHP
-- Correo: [admin@frankmorenoalburqueque.com] (mailto:admin@frankmorenoalburqueque.com)
-- Web: [frankmorenoalburqueque.com] (https://frankmorenoalburqueque.com)
-- Tel: [+51924741703] (tel:+51924741703)
+- Correo: admin@frankmorenoalburqueque.com
+- Web: https://frankmorenoalburqueque.com
+- Tel: +51924741703
