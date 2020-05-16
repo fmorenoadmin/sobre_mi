@@ -9,11 +9,17 @@
 ### Perfíl profesional:
 
 Soy Programador Web, en Lenguaje de Programación PHP Pura.
+
 Soy WebMaster. Gestiono y Administro servidores Web, Bases de Datos, Correos Corporativos, etc.
+
 Soy Programador FullStack (Realizo el Back-End y el Front-End).
+
 Desarrollo mis proyectos con mi propia metodología de programación, la cual sigo mejorando cada día.
+
 Dentro de todo el tiempo que llevo laborando con PHP, eh realizado un sistema con mi propia metodología, el cual es adaptable a cualtier tipo de empresa y para cualquier fin.
+
 Eh realizado y participado en la elavoración de varios Proyectos. (Sistemas Web, Páginas Web, Carrito de Compras Web).
+
 Actualmente me encuentor laborando en: EURORENTING - EUROMOTORS
 
 ### Sobre Mí
