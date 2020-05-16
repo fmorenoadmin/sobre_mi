@@ -48,6 +48,6 @@
 	<label>WebMaster - Programador Web PHP</label><br>
 	<label><a href="mailto:admin@frankmorenoalburqueque.com">admin@frankmorenoalburqueque.com</a></label><br>
 	<label><a href="https://frankmorenoalburqueque.com" target="_blank">https://frankmorenoalburqueque.com</a></label><br>
-	<label><a href="tel:924741703">+51924741703</a></label><br>
+	<label><a href="tel:924741703">+51 924 741 703</a></label><br>
   <img src="https://frankmorenoalburqueque.com/images/logo480x240.png" width="auto" title="Logo">
 </p>
